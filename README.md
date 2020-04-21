@@ -1,0 +1,2 @@
+# cloud-services-products-analysis
+Performing an analysis and presentation for the VP on a cloud services company that produces two products, A and B. Tableau is used to understand more about the customers of each product, and where there are opportunities for growth. The main tasks were to analyze the metadata and documentation and to complete business analysis, including dividing users into groups based on their behavior, make suggestions on how to grow revenue, and outline additional business questions to pursue. 
